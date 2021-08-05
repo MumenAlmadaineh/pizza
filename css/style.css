@@ -1,0 +1,103 @@
+
+body{
+  width: 901px;
+    display: grid;
+    margin: auto;
+}
+
+header{
+    margin-bottom: 15px;
+}
+
+.pizzaLogo{
+    float: left;
+   margin-right: 5px;
+   margin-top: 15px;
+}
+
+.fristSection{
+    float:left;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.fristP{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0px 1px;
+}
+.secoundP{
+    font-family: cursive ;
+    font-size: small;
+    margin: 0px 1px;
+}
+
+li{
+   display: inline;
+
+}
+
+ul{
+    float: right;
+    margin-top: 25px;
+}
+
+.secoundSection {
+    float:left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+main section img {
+    float: right ;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+
+.mainParagraph{
+font-family: cursive ;
+}
+
+form {
+    position: absolute;
+    vertical-align: bottom;
+    margin-top: 100px;
+    margin-left: 0;
+    display: grid;
+    grid-template-columns: auto  auto;
+} 
+input {
+    width: 100px;
+    display:inline-block;
+    margin-top:10px  ;
+    margin-left:100px;   
+  }
+
+.buttom{
+    float: right;
+    background-color: chocolate;
+    color: cornsilk;
+    padding: 20px;
+}
+
+.lastImg{
+    float: left;
+    margin-top: 0px;
+}
+
+.last1P{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0px 1px;
+}
+.last2P{
+    font-family: cursive ;
+    font-size: small;
+    margin: 0px 1px;
+}
+
+
+.center {
+    margin-left: 420px;
+  }
